@@ -89,8 +89,6 @@ Monitor stock levels in real time, helping prevent shortages, reduce overstockin
 
 ## My Achievements
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
-  <h1>Welcome to My Cyber Security Portfolio</h1>
-  <p>Repository: My-Portfolio</p>
   <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
     <img src="Pearson Badge.jpeg" width="100" alt="Badge 1"/>
     <img src="image2.png" width="100" alt="Badge 2"/>
