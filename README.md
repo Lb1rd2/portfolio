@@ -91,7 +91,7 @@ Monitor stock levels in real time, helping prevent shortages, reduce overstockin
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
   <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
     <img src="Pearson Badge.jpeg" width="100" alt="Badge 1"/>
-    <img src="image2.png" width="100" alt="Badge 2"/>
-    <img src="image3.png" width="100" alt="Badge 3"/>
+    <img src="API.jpeg" width="100" alt="Badge 2"/>
+    <img src="CASA.jpeg" width="100" alt="Badge 3"/>
   </div>
 </div>
