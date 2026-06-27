@@ -59,8 +59,9 @@ As part of this project, I performed a complete security assessment of the websi
 ## Project 2: Point of Sale (POS) System
 A complete retail management application built to automate store inventory tracking, log daily transactional revenues, and render downloadable customer invoice receipts.
 
-### Live System Demo
-👉 *[Click Here to Open the Live Project](https://lb1rd2.github.io/pos/?)*
+#### Live System Demo
+*[Click Here to Open the Live Project](https://lb1rd2.github.io/pos/?)*
+
 
 ### Project Screenshots
 ### Login Page
