@@ -14,7 +14,6 @@ A responsive personal portfolio website designed and developed entirely from scr
 2. Professional project showcase
 3. Optimized performance
 
-### Project Screenshots
 ### Homepage 
 A professional homepage that introduces my cybersecurity expertise, along with a personal mission statement and career goals.
 ![Landing Page](1.png)
@@ -58,12 +57,8 @@ As part of this project, I performed a complete security assessment of the websi
 
 ## Project 2: Point of Sale (POS) System
 A complete retail management application built to automate store inventory tracking, log daily transactional revenues, and render downloadable customer invoice receipts.
-
-#### Live System
 *[Click Here to Open the Live Project](https://lb1rd2.github.io/pos/?)*
 
-
-### Project Screenshots
 ### Login Page
 A secure authentication interface that restricts access to authorized users, helping protect business data and ensuring only authenticated personnel can access the POS system.
 ![Project Interface View](a.png)
