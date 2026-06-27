@@ -2,8 +2,6 @@
 
 Welcome to my Cyber Security Portfolio. This portfolio highlights my practical experience in secure software development, web application security, penetration testing, and system design. Every project demonstrates real-world skills in building, testing, and securing applications using industry best practices.
 
-[Hackathon Winner]()
-
 ---
 ## Project 1: Secure Portfolio Website
 A responsive personal portfolio website designed and developed entirely from scratch using HTML, CSS, and JavaScript. Beyond showcasing my work, this project demonstrates my ability to build modern web applications while incorporating secure coding practices and performing security assessments to identify and remediate vulnerabilities.
@@ -17,9 +15,17 @@ A responsive personal portfolio website designed and developed entirely from scr
 3. Optimized performance
 
 ### Project Screenshots
+## Homepage 
+A professional homepage that introduces my cybersecurity expertise, along with a personal mission statement and career goals.
 ![Landing Page](1.png)
+
+## Portfolio Projects 
+In-depth showcases of individual projects, explaining challenges, solutions, and the security measures implemented.
 ![Landing Page](2.png)
 ![Landing Page](3.png)
+
+## Contact Section
+A dedicated area with contact details and a simple form for inquiries, partnerships, or networking.
 ![Landing Page](4.png)
 ![Landing Page](5.png)
 
@@ -57,26 +63,26 @@ A complete retail management application built to automate store inventory track
 👉 *[Click Here to Open the Live Project](https://lb1rd2.github.io/pos/?)*
 
 ### Project Screenshots
-### Login Page
+## Login Page
 A secure authentication interface that restricts access to authorized users, helping protect business data and ensuring only authenticated personnel can access the POS system.
 ![Project Interface View](a.png)
 
-### Dashboard
+## Dashboard
 A centralized dashboard providing an overview of sales performance, inventory status, and key business metrics for quick decision-making. Process customer purchases quickly through an intuitive sales interface with automatic total calculations and receipt generation.
 ![Project Interface View](b.png)
 
-### System Interface
+## System Interface
 A clean, responsive, and user-friendly interface designed to simplify retail operations and enhance the overall user experience.
 ![Project Interface View](c.png)
 
-### Inventory & Stock Tracking
+## Inventory & Stock Tracking
 Monitor stock levels in real time, helping prevent shortages, reduce overstocking, and improve inventory management.**
 ![Project Interface View](d.png)
 
-### Product Management
+## Product Management
 Manage products efficiently by adding, editing, deleting, and organizing inventory with real-time stock updates.
 ![Project Interface View](e.png)
 
-### Inventory & Stock Tracking
+## Inventory & Stock Tracking
 Monitor stock levels in real time, helping prevent shortages, reduce overstocking, and improve inventory management.
 ![Project Interface View](f.png)
