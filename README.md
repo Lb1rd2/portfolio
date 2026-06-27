@@ -5,14 +5,12 @@ Welcome to my Cyber Security Portfolio. This portfolio highlights my practical e
 ---
 ## Project 1: Secure Portfolio Website
 A responsive personal portfolio website designed and developed entirely from scratch using HTML, CSS, and JavaScript. Beyond showcasing my work, this project demonstrates my ability to build modern web applications while incorporating secure coding practices and performing security assessments to identify and remediate vulnerabilities.
-
-#### Live System
 *[Click Here to view the website](https://techielbird.github.io/julia-pereira-portfolio/)*
 
 ### Key Features
-1. Responsive and modern user interface
-2. Professional project showcase
-3. Optimized performance
+- Responsive and modern user interface
+- Professional project showcase
+- Optimized performance
 
 ### Homepage 
 A professional homepage that introduces my cybersecurity expertise, along with a personal mission statement and career goals.
@@ -29,10 +27,10 @@ A dedicated area with contact details and a simple form for inquiries, partnersh
 ![Landing Page](5.png)
 
 ### Technologies Used
-HTML5
-CSS3
-JavaScript
-Git & GitHub
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
 
 ### Security Assessment
 As part of this project, I performed a complete security assessment of the website by:
@@ -47,12 +45,12 @@ As part of this project, I performed a complete security assessment of the websi
 - Verifying secure deployment configurations
 
 ### Skills Demonstrated
-1. Frontend Web Development
-2. Secure Web Development
-3. Web Application Penetration Testing
-4. Vulnerability Assessment
-5. Security Best Practices
-6. UI/UX Design
+- Frontend Web Development
+- Secure Web Development
+- Web Application Penetration Testing
+- Vulnerability Assessment
+- Security Best Practices
+- UI/UX Design
 
 
 ## Project 2: Point of Sale (POS) System
@@ -97,3 +95,4 @@ Monitor stock levels in real time, helping prevent shortages, reduce overstockin
     <img src="CASA.jpeg" alt="CASA Badge" width="150">
   </a>
 </p>
+
