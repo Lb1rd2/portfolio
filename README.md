@@ -69,7 +69,7 @@ A secure authentication interface that restricts access to authorized users, hel
 
 ## Dashboard
 A centralized dashboard providing an overview of sales performance, inventory status, and key business metrics for quick decision-making. Process customer purchases quickly through an intuitive sales interface with automatic total calculations and receipt generation.
-![Project Interface View](b.png)
+![Project Interface View](b1.png)
 
 ## System Interface
 A clean, responsive, and user-friendly interface designed to simplify retail operations and enhance the overall user experience.
