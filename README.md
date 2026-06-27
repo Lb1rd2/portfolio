@@ -13,10 +13,7 @@ A responsive personal portfolio website designed and developed entirely from scr
 ### Key Features
 1. Responsive and modern user interface
 2. Professional project showcase
-3. Contact section
-4. Optimized performance
-5. Secure coding practices
-6. Cross-browser compatibility
+3. Optimized performance
 
 ### Project Screenshots
 ![Landing Page](1.png)
@@ -34,22 +31,22 @@ Git & GitHub
 ### Security Assessment
 As part of this project, I performed a complete security assessment of the website by:
 
-Identifying common web application vulnerabilities
-Testing for Cross-Site Scripting (XSS)
-Testing for SQL Injection where applicable
-Validating input sanitization
-Reviewing authentication and authorization logic
-Assessing HTTP Security Headers
-Evaluating client-side JavaScript security
-Verifying secure deployment configurations
+- Identifying common web application vulnerabilities
+- Testing for Cross-Site Scripting (XSS)
+- Testing for SQL Injection where applicable
+- Validating input sanitization
+- Reviewing authentication and authorization logic
+- Assessing HTTP Security Headers
+- Evaluating client-side JavaScript security
+- Verifying secure deployment configurations
 
 ### Skills Demonstrated
-Frontend Web Development
-Secure Web Development
-Web Application Penetration Testing
-Vulnerability Assessment
-Security Best Practices
-UI/UX Design
+1. Frontend Web Development
+2. Secure Web Development
+3. Web Application Penetration Testing
+4. Vulnerability Assessment
+5. Security Best Practices
+6. UI/UX Design
 
 
 ## Project 2: Point of Sale (POS) System
