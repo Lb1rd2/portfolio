@@ -11,8 +11,12 @@ Welcome to my Cyber Security Portfolio. This portfolio highlights my practical e
   <img src="image2.png" width="200" alt="Image 2"/>
   <img
     
+---
+    
 ## Project 1: Secure Portfolio Website
 A responsive personal portfolio website designed and developed entirely from scratch using HTML, CSS, and JavaScript. Beyond showcasing my work, this project demonstrates my ability to build modern web applications while incorporating secure coding practices and performing security assessments to identify and remediate vulnerabilities.
+
+---
 
 ### Live System Demo
 👉 *[Click Here to view the website](https://techielbird.github.io/julia-pereira-portfolio/)*
