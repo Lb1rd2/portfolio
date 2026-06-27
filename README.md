@@ -8,7 +8,7 @@ Welcome to my Cyber Security Portfolio. This portfolio highlights my practical e
 A responsive personal portfolio website designed and developed entirely from scratch using HTML, CSS, and JavaScript. Beyond showcasing my work, this project demonstrates my ability to build modern web applications while incorporating secure coding practices and performing security assessments to identify and remediate vulnerabilities.
 
 ### Live System Demo
-👉 *[Click Here to Test the Live POS Application]([https://your-live-pos-system-link.com](https://techielbird.github.io/julia-pereira-portfolio/))*
+👉 *[Click Here to view the website](https://techielbird.github.io/julia-pereira-portfolio/)*
 
 ### Key Features
 Responsive and modern user interface
@@ -20,10 +20,10 @@ Cross-browser compatibility
 
 ### Project Screenshots
 ![Landing Page](1.png)
-![Featured Projects](2.jpg)
-![Responsive Design](3.jpg)
-![Performance & Optimization](4.jpg)
-![Modern User Interface](5.jpg)
+![Landing Page](2.png)
+![Landing Page](3.png)
+![Landing Page](4.png)
+![Landing Page](5.png)
 
 ### Technologies Used
 HTML5
