@@ -1,11 +1,11 @@
-# Welcome to My Cyber Security Portfolio
+# Julia Pereira
 
-Welcome to my Cyber Security Portfolio. This portfolio highlights my practical experience in secure software development, web application security, penetration testing, and system design. Every project demonstrates real-world skills in building, testing, and securing applications using industry best practices.
+This portfolio highlights my practical experience in secure software development, web application security, penetration testing, and system design. Every project demonstrates real-world skills in building, testing, and securing applications using industry best practices.
 
 ---
 ## Project 1: Secure Portfolio Website
 A responsive personal portfolio website designed and developed entirely from scratch using HTML, CSS, and JavaScript. Beyond showcasing my work, this project demonstrates my ability to build modern web applications while incorporating secure coding practices and performing security assessments to identify and remediate vulnerabilities.
-*[Click Here to view the website](https://techielbird.github.io/julia-pereira-portfolio/)*
+*[Click Here to view the Live website](https://techielbird.github.io/julia-pereira-portfolio/)*
 
 ### Key Features
 - Responsive and modern user interface
