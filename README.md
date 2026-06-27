@@ -11,12 +11,12 @@ A responsive personal portfolio website designed and developed entirely from scr
 👉 *[Click Here to view the website](https://techielbird.github.io/julia-pereira-portfolio/)*
 
 ### Key Features
-Responsive and modern user interface
-Professional project showcase
-Contact section
-Optimized performance
-Secure coding practices
-Cross-browser compatibility
+1.Responsive and modern user interface
+2.Professional project showcase
+3.Contact section
+4.Optimized performance
+5.Secure coding practices
+6.Cross-browser compatibility
 
 ### Project Screenshots
 ![Landing Page](1.png)
