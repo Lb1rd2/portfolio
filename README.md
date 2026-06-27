@@ -4,10 +4,10 @@ Welcome to my Cyber Security Portfolio. This portfolio highlights my practical e
 
 ---
 
-## 🛒 Project 1: Secure Portfolio Website
+## Project 1: Secure Portfolio Website
 A responsive personal portfolio website designed and developed entirely from scratch using HTML, CSS, and JavaScript. Beyond showcasing my work, this project demonstrates my ability to build modern web applications while incorporating secure coding practices and performing security assessments to identify and remediate vulnerabilities.
 
-### 🔗 Live System Demo
+### Live System Demo
 👉 *[Click Here to Test the Live POS Application]([https://your-live-pos-system-link.com](https://techielbird.github.io/julia-pereira-portfolio/))*
 
 ### Key Features
@@ -18,7 +18,7 @@ Optimized performance
 Secure coding practices
 Cross-browser compatibility
 
-### 📸 Project Screenshots
+### Project Screenshots
 ![Landing Page](1.png)
 ![Featured Projects](2.jpg)
 ![Responsive Design](3.jpg)
@@ -51,16 +51,34 @@ Vulnerability Assessment
 Security Best Practices
 UI/UX Design
 
-## 🌦️ Project 2: Point of Sale (POS) System
+
+## Project 2: Point of Sale (POS) System
 A complete retail management application built to automate store inventory tracking, log daily transactional revenues, and render downloadable customer invoice receipts.
 
-
-### 🔗 Live System Demo
+### Live System Demo
 👉 *[Click Here to Open the Live Project](https://lb1rd2.github.io/pos/?)*
 
-### 📸 Project Screenshots
-![Project Interface View](your-second-screenshot.png)
-![Project Interface View](your-second-screenshot.png)
-![Project Interface View](your-second-screenshot.png)
-![Project Interface View](your-second-screenshot.png)
-![Project Interface View](your-second-screenshot.png)
+### Project Screenshots
+### Login Page
+A secure authentication interface that restricts access to authorized users, helping protect business data and ensuring only authenticated personnel can access the POS system.
+![Project Interface View](a.png)
+
+### Dashboard
+A centralized dashboard providing an overview of sales performance, inventory status, and key business metrics for quick decision-making. Process customer purchases quickly through an intuitive sales interface with automatic total calculations and receipt generation.
+![Project Interface View](b.png)
+
+### System Interface
+A clean, responsive, and user-friendly interface designed to simplify retail operations and enhance the overall user experience.
+![Project Interface View](c.png)
+
+### Inventory & Stock Tracking
+Monitor stock levels in real time, helping prevent shortages, reduce overstocking, and improve inventory management.**
+![Project Interface View](d.png)
+
+### Product Management
+Manage products efficiently by adding, editing, deleting, and organizing inventory with real-time stock updates.
+![Project Interface View](e.png)
+
+### Inventory & Stock Tracking
+Monitor stock levels in real time, helping prevent shortages, reduce overstocking, and improve inventory management.
+![Project Interface View](f.png)
