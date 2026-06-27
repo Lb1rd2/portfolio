@@ -88,10 +88,16 @@ Monitor stock levels in real time, helping prevent shortages, reduce overstockin
 ![Project Interface View](f.png)
 
 ## My Achievements
-<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
-  <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
-    <img src="Pearson Badge.jpeg" width="100" alt="Badge 1"/>
-    <img src="API.jpeg" width="100" alt="Badge 2"/>
-    <img src="CASA.jpeg" width="100" alt="Badge 3"/>
-  </div>
-</div>
+<p align="center">
+  <a href="https://www.credly.com/badges/c8edacce-a86d-4096-a221-56fbfb4119bc/public_url">
+    <img src="Pearson Badge.jpeg" alt="Pearson Badge" width="120">
+  </a>
+
+  <a href="https://www.credly.com/badges/88e7f87f-a2c0-48e8-9dd9-d00afa50df4b/public_url">
+    <img src="API.jpeg" alt="API Badge" width="120">
+  </a>
+
+  <a href="https://www.credly.com/badges/a107dae3-9350-47cf-8ced-8923b7ac76ad/public_url">
+    <img src="CASA.jpeg" alt="CASA Badge" width="120">
+  </a>
+</p>
