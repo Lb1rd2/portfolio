@@ -64,15 +64,15 @@ Additionally, the platform fosters technical growth by hosting **Cybersecurity C
 ---
 
 ## System Architecture
-*(Insert a diagram here using Mermaid.js or an image. Show the flow from Frontend -> API Gateway -> Backend Services -> Database & LLMs)*
+<!-- *(Insert a diagram here using Mermaid.js or an image. Show the flow from Frontend -> API Gateway -> Backend Services -> Database & LLMs)* -->
 
 ## Getting Started
-[Provide clear instructions on how to clone, install dependencies, set up `.env` variables, and run the project locally.]
+<!-- [Provide clear instructions on how to clone, install dependencies, set up `.env` variables, and run the project locally.] -->
 
 ## 📬 Contact & Live Demo
-*   **Live Deployment:** [Insert your link here]
-*   **LinkedIn:** [Your LinkedIn URL]
-*   **Portfolio:** [Your Website URL]
+*   **Live Deployment:** [Live Deployment](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f)
+*   **LinkedIn:** [Linkedin](www.linkedin.com/in/julia-pereira-cyber-security-analyst)
+*   **Portfolio:** [Portfolio](https://lb1rd2.github.io/portfolio/)
 
 
 ## Project 2: Secure Portfolio Website
