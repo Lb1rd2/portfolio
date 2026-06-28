@@ -47,19 +47,19 @@ Additionally, the platform fosters technical growth by hosting **Cybersecurity C
 ---
 
 ## Software Engineering & AI Integration
-*   **Full-Stack Architecture**: Built using `[Frontend Framework, e.g., React/Next.js]` and `[Backend, e.g., Node.js/Python FastAPI]`.
-*   **AI Orchestration**: Integrated `[LLM Provider, e.g., OpenAI API/Claude]` via custom prompt engineering to ensure CVs and cover letters maintain professional formatting and context.
-*   **Programmatic PDF Generation**: Developed a custom engine using `[Library, e.g., PDFKit/React-PDF]` to render dynamic, ATS-friendly documents without relying on heavy external dependencies.
-*   **State Management**: Built a robust relational database schema `[e.g., PostgreSQL]` to handle complex many-to-many relationships between users, applications, and job listings.
+*   **Full-Stack Architecture**: Built using `Frontend Framework, React/Next.js` and `Backend, Node.js/Python FastAPI`.
+*   **AI Orchestration**: Integrated `LLM Provider, OpenAI API/Claude` via custom prompt engineering to ensure CVs and cover letters maintain professional formatting and context.
+*   **Programmatic PDF Generation**: Developed a custom engine using `Library, PDFKit/React-PDF` to render dynamic, ATS-friendly documents without relying on heavy external dependencies.
+*   **State Management**: Built a robust relational database schema `PostgreSQL` to handle complex many-to-many relationships between users, applications, and job listings.
 
 ---
 
 ## Tech Stack
-*   **Frontend:** [React, Tailwind CSS, TypeScript]
-*   **Backend:** [Python FastAPI, Node.js]
-*   **Database:** [PostgreSQL, Redis]
-*   **AI/ML:** [OpenAI API, LangChain, HuggingFace]
-*   **DevOps/Cloud:** [Docker, AWS/GCP, GitHub Actions]
+*   **Frontend:** React, Tailwind CSS, TypeScript
+*   **Backend:** Python FastAPI, Node.js
+*   **Database:** PostgreSQL, Redis
+*   **AI/ML:** OpenAI API, LangChain, HuggingFace
+*   **DevOps/Cloud:** Docker, AWS/GCP, GitHub Actions
 
 ---
 
