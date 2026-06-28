@@ -3,7 +3,71 @@
 This portfolio highlights my practical experience in secure software development, web application security, penetration testing, and system design. Every project demonstrates real-world skills in building, testing, and securing applications using industry best practices.
 
 ---
-## Project 1: Secure Portfolio Website
+# 🇰🇪 KaziConnect Kenya: AI-Powered Career Platform
+
+![Deployment Status](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Cybersecurity](https://img.shields.io/badge/Security-OWASP%20Compliant-red)
+
+> **Bridging the gap between Kenyan graduates and career success through AI, automation, and secure data handling.**
+
+## Overview
+KaziConnect Kenya is a full-stack web application designed to streamline the job search process for students and entry-level professionals in Kenya. It aggregates opportunities from government ministries and top corporations (Safaricom, KCB), utilizes LLMs to generate ATS-compliant application materials, and provides a secure dashboard for tracking applications. 
+
+Additionally, the platform fosters technical growth by hosting **Cybersecurity CTF Challenges** and curated learning resources.
+
+## Key Features
+*   **Smart Profile & AI Document Generator**: Instantly generates tailored, ATS-compliant CVs and Cover Letters in PDF format.
+*   **Automated Job Aggregation**: Scrapes and curates entry-level jobs from diverse portals (Ministries, Tech Hubs, Corporate sites).
+*   **AI Mock Interviewer**: An interactive LLM-driven interview simulator with real-time feedback.
+*   **Application Dashboard**: Real-time tracking of application statuses (Pending, Accepted, Rejected).
+*   **Cybersecurity Hub**: Hosts CTF challenges and curated resources (Cisco, Microsoft) for skill development.
+
+---
+
+## Cybersecurity & Data Privacy (AppSec)
+*Given the sensitive nature of user data (PII, employment history, academic records), security was prioritized at the architecture level.*
+
+*   **Data Protection & Compliance**: Designed with the **Kenya Data Protection Act (2019)** in mind. All PII is encrypted at rest and in transit (TLS 1.3).
+*   **OWASP Top 10 Mitigation**: Implemented strict input validation and output encoding to prevent XSS and SQL Injection. Parameterized queries are used across the database.
+*   **AI Security (Prompt Injection Defense)**: Secured LLM endpoints (Cover Letter/Mock Interview) against prompt injection and jailbreaking attempts using input sanitization and system prompt hardening.
+*   **Secure Web Scraping Pipeline**: The job aggregation engine uses isolated, sandboxed environments to scrape external sites, preventing Server-Side Request Forgery (SSRF) and ensuring malicious payloads from external sites are neutralized before database insertion.
+*   **Authentication & Authorization**: Implemented secure, stateless authentication using JWTs with short expiration times and secure HttpOnly cookies.
+
+*(See [SECURITY.md](./SECURITY.md) for our full vulnerability disclosure policy and security architecture).*
+
+---
+
+## Software Engineering & AI Integration
+*   **Full-Stack Architecture**: Built using `[Frontend Framework, e.g., React/Next.js]` and `[Backend, e.g., Node.js/Python FastAPI]`.
+*   **AI Orchestration**: Integrated `[LLM Provider, e.g., OpenAI API/Claude]` via custom prompt engineering to ensure CVs and cover letters maintain professional formatting and context.
+*   **Programmatic PDF Generation**: Developed a custom engine using `[Library, e.g., PDFKit/React-PDF]` to render dynamic, ATS-friendly documents without relying on heavy external dependencies.
+*   **State Management**: Built a robust relational database schema `[e.g., PostgreSQL]` to handle complex many-to-many relationships between users, applications, and job listings.
+
+---
+
+## Tech Stack
+*   **Frontend:** [React, Tailwind CSS, TypeScript]
+*   **Backend:** [Python FastAPI, Node.js]
+*   **Database:** [PostgreSQL, Redis]
+*   **AI/ML:** [OpenAI API, LangChain, HuggingFace]
+*   **DevOps/Cloud:** [Docker, AWS/GCP, GitHub Actions]
+
+---
+
+## System Architecture
+*(Insert a diagram here using Mermaid.js or an image. Show the flow from Frontend -> API Gateway -> Backend Services -> Database & LLMs)*
+
+## Getting Started
+[Provide clear instructions on how to clone, install dependencies, set up `.env` variables, and run the project locally.]
+
+## 📬 Contact & Live Demo
+*   **Live Deployment:** [Insert your link here]
+*   **LinkedIn:** [Your LinkedIn URL]
+*   **Portfolio:** [Your Website URL]
+
+
+## Project 2: Secure Portfolio Website
 A responsive personal portfolio website designed and developed entirely from scratch using HTML, CSS, and JavaScript. Beyond showcasing my work, this project demonstrates my ability to build modern web applications while incorporating secure coding practices and performing security assessments to identify and remediate vulnerabilities.
 *[Click Here to view the Live website](https://techielbird.github.io/julia-pereira-portfolio/)*
 
@@ -53,7 +117,7 @@ As part of this project, I performed a complete security assessment of the websi
 - UI/UX Design
 
 
-## Project 2: Point of Sale (POS) System
+## Project 3: Point of Sale (POS) System
 A complete retail management application built to automate store inventory tracking, log daily transactional revenues, and render downloadable customer invoice receipts.
 *[Click Here to Open the Live Project](https://lb1rd2.github.io/pos/?)*
 
@@ -95,4 +159,3 @@ Monitor stock levels in real time, helping prevent shortages, reduce overstockin
     <img src="CASA.jpeg" alt="CASA Badge" width="150">
   </a>
 </p>
-
