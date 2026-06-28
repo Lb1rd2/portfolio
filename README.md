@@ -18,19 +18,16 @@ Additionally, the platform fosters technical growth by hosting **Cybersecurity C
 
 ## Key Features
 *   **Smart Profile & AI Document Generator**: Instantly generates tailored, ATS-compliant CVs and Cover Letters in PDF format.
-  ![Landing Page](k2.png)
+  ![Landing Page](kc1.png)
 *   **Automated Job Aggregation**: Scrapes and curates entry-level jobs from diverse portals (Ministries, Tech Hubs, Corporate sites).
   ![Landing Page](k2.png)
 *   **AI Mock Interviewer**: An interactive LLM-driven interview simulator with real-time feedback.
-  ![Landing Page](k3.png)
-![Landing Page](4.png)
-*   **Application Dashboard**: Real-time tracking of application statuses (Pending, Accepted, Rejected).
-![Landing Page](k5.png)
+  ![Landing Page](kc3.png)
+    **Application Dashboard**: Real-time tracking of application statuses (Pending, Accepted, Rejected).
+![Landing Page](kc4.png)
 *   **Cybersecurity Hub**: Hosts CTF challenges and curated resources (Cisco, Microsoft) for skill development.
-  ![Landing Page](k6.png)
-![Landing Page](k7.png)
-
----
+  ![Landing Page](kc5.png)
+  ---
 
 ## Cybersecurity & Data Privacy (AppSec)
 *Given the sensitive nature of user data (PII, employment history, academic records), security was prioritized at the architecture level.*
