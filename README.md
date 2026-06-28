@@ -18,7 +18,7 @@ Additionally, the platform fosters technical growth by hosting **Cybersecurity C
 
 ## Key Features
 *   **Smart Profile & AI Document Generator**: Instantly generates tailored, ATS-compliant CVs and Cover Letters in PDF format.
-  ![Landing Page](k1.png)
+  ![Landing Page](k2.png)
 *   **Automated Job Aggregation**: Scrapes and curates entry-level jobs from diverse portals (Ministries, Tech Hubs, Corporate sites).
   ![Landing Page](k2.png)
 *   **AI Mock Interviewer**: An interactive LLM-driven interview simulator with real-time feedback.
