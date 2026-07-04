@@ -167,3 +167,11 @@ Monitor stock levels in real time, helping prevent shortages, reduce overstockin
     <img src="CASA.jpeg" alt="CASA Badge" width="150">
   </a>
 </p>
+
+## Remote File Transfer and PowerShell Fundamentals
+
+This project demonstrates my understanding of secure file transfer techniques and PowerShell-based file delivery methods used in Windows environments from a cybersecurity and system administration perspective.
+
+The work covers multiple approaches to transferring files between local and remote systems, including Remote Desktop Protocol (RDP) through Drive and Clipboard Redirection, Secure File Transfer Protocol (SFTP) over SSH, and PowerShell-based file transfer mechanisms. It also explores PowerShell Base64 encoding and decoding techniques for transferring files without network communication, as well as the use of MD5 hashing to verify file integrity after transfer.
+
+The project further examines PowerShell capabilities for downloading remote resources using the System.Net.WebClient class (DownloadFile(), DownloadFileAsync()) and Invoke-WebRequest (IWR). In addition, it introduces memory-based execution concepts using DownloadString() and Invoke-Expression (IEX), providing insight into techniques commonly encountered during system administration and cybersecurity assessments.
