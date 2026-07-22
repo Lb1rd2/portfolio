@@ -3,6 +3,12 @@
 This portfolio highlights my practical experience in secure software development, web application security, penetration testing, and system design. Every project demonstrates real-world skills in building, testing, and securing applications using industry best practices.
 
 ---
+## 🚀 My Security Portfolio
+
+Here you can find individual deep-dives into my lab environments and assignments:
+
+[![pentest](https://shields.io)](./pentest/)
+
 # 🇰🇪 KaziConnect Kenya: AI-Powered Career Platform
 
 ![Deployment Status](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f)
