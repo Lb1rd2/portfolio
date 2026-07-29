@@ -5,9 +5,11 @@ This portfolio highlights my practical experience in secure software development
 ---
 ## 🚀 My Security Portfolio
 
-Here you can find individual deep-dives into my lab environments and assignments:
+Here you can find individual deep-dives into my lab environments.
 
-[![pentest](https://shields.io)](./pentest/)
+[![Pentration Testing Projects](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
+
+## PROJECT 1
 
 # 🇰🇪 KaziConnect Kenya: AI-Powered Career Platform
 
