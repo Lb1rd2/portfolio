@@ -9,6 +9,10 @@ Here you can find individual deep-dives into my lab environments.
 
 [![Pentration Testing Projects](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
 
+<a href="./kubernetes">
+  <img src="https://shields.io" alt="Kubernetes Project Button">
+</a>
+
 ## PROJECT 1
 
 # 🇰🇪 KaziConnect Kenya: AI-Powered Career Platform
