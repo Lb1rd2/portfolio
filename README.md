@@ -9,8 +9,8 @@ Here you can find individual deep-dives into my lab environments.
 
 [![Pentration Testing](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
 
-<a href="./kubernetes/README.md">
-  <img src="https://shields.io" alt="Kubernetes Project Button">
+<a href="https://github.com">
+  <img src="https://shields.io" alt="Kubernetes">
 </a>
 
 ## PROJECT 1
