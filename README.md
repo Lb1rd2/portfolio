@@ -7,10 +7,10 @@ This portfolio highlights my practical experience in secure software development
 
 Here you can find individual deep-dives into my lab environments.
 
-[![Pentration Testing Projects](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
+[![Pentration Testing](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
 
 <a href="./kubernetes">
-  <img src="https://shields.io" alt="Kubernetes Project Button">
+  <img src="https://shields.io" alt="Kubernetes">
 </a>
 
 ## PROJECT 1
