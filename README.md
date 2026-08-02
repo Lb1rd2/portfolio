@@ -11,7 +11,7 @@ Here you can find individual deep-dives into my lab environments.
 
 <!-- Kubernetes Project Only -->
 <h3>Lb1rd2 / portfolio / kubernetes</h3>
-<a href="https://github.com">
+<a href="./Kubernetes">
   <img src="https://shields.io" alt="Kubernetes">
 </a>
 
