@@ -227,18 +227,6 @@ The work covers multiple approaches to transferring files between local and remo
 
 The project further examines PowerShell capabilities for downloading remote resources using the System.Net.WebClient class (DownloadFile(), DownloadFileAsync()) and Invoke-WebRequest (IWR). In addition, it introduces memory-based execution concepts using DownloadString() and Invoke-Expression (IEX), providing insight into techniques commonly encountered during system administration and cybersecurity assessments.
 
-## My Achievements
-<p align="left">
-  <a href="https://www.credly.com/badges/c8edacce-a86d-4096-a221-56fbfb4119bc/public_url">
-    <img src="Pearson Badge.jpeg" alt="Pearson Badge" width="150">
-  </a>
-
-  <a href="https://www.credly.com/badges/88e7f87f-a2c0-48e8-9dd9-d00afa50df4b/public_url">
-    <img src="API.jpeg" alt="API Badge" width="150">
-  </a>
-
-  <a href="https://www.credly.com/badges/a107dae3-9350-47cf-8ced-8923b7ac76ad/public_url">
-
 
 
     ## Certifications & Education
@@ -344,13 +332,26 @@ Download my CV:
 
 ## 📬 Contact
 
-- **Email:** your.email@example.com
+- **Email:** juliaperirafp@gmail.com.com
 - **LinkedIn:** https://linkedin.com/in/yourprofile
 - **GitHub:** https://github.com/yourusername
 - **Hack The Box:** https://app.hackthebox.com/profile/yourprofile
 - **TryHackMe:** https://tryhackme.com/p/yourusername
-- **LetsDefend:** https://app.letsdefend.io/profile/yourprofile
+
+  ## My Achievements
+<p align="left">
+  <a href="https://www.credly.com/badges/c8edacce-a86d-4096-a221-56fbfb4119bc/public_url">
+    <img src="Pearson Badge.jpeg" alt="Pearson Badge" width="150">
+  </a>
+
+  <a href="https://www.credly.com/badges/88e7f87f-a2c0-48e8-9dd9-d00afa50df4b/public_url">
+    <img src="API.jpeg" alt="API Badge" width="150">
+  </a>
+
+  <a href="https://www.credly.com/badges/a107dae3-9350-47cf-8ced-8923b7ac76ad/public_url">
+
     <img src="CASA.jpeg" alt="CASA Badge" width="150">
+    
   </a>
 </p>
 
