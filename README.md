@@ -322,7 +322,7 @@ Skills developed:
 
 ---
 
-## 📄 Curriculum Vitae (CV)
+## Curriculum Vitae (CV)
 
 Download my CV:
 
@@ -330,15 +330,14 @@ Download my CV:
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **Email:** juliaperirafp@gmail.com.com
 - **LinkedIn:** https://linkedin.com/in/julia-pereira-cyber-analyst
-- **GitHub:** https://github.com/yourusername
+- **GitHub:** https://lb1rd2.github.io
 - **Hack The Box:** https://app.hackthebox.com/profile/yourprofile
 - **TryHackMe:** https://tryhackme.com/p/yourusername
 
-  ## My Achievements
 <p align="left">
   <a href="https://www.credly.com/badges/c8edacce-a86d-4096-a221-56fbfb4119bc/public_url">
     <img src="Pearson Badge.jpeg" alt="Pearson Badge" width="150">
