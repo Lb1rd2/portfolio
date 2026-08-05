@@ -1,11 +1,67 @@
 # Julia Pereira
 
-This portfolio highlights my practical experience in secure software development, web application security, penetration testing, and system design. Every project demonstrates real-world skills in building, testing, and securing applications using industry best practices.
+## Cybersecurity Analyst | Penetration Tester | Certified Ethical Hacker (CEH) | Certified API Security Analyst
+
+This portfolio highlights my practical experience in cybersecurity, web application security, penetration testing, API security, and secure software development. Every project demonstrates real-world skills in identifying, testing, and securing applications using industry best practices.
+
+🚀 **My Security Portfolio**
+
+Here you can find individual deep-dives into my lab environments, penetration testing projects, security assessments, and technical writeups.
 
 ---
-## 🚀 My Security Portfolio
 
-Here you can find individual deep-dives into my lab environments.
+## 👩‍💻 About
+
+I am a Cybersecurity Analyst and Penetration Tester passionate about identifying vulnerabilities and helping organizations improve their security posture. I specialize in web application security, API security testing, vulnerability assessments, and ethical hacking. Through hands-on labs, real-world projects, and continuous learning, I continue to strengthen my technical skills and stay current with evolving cybersecurity threats and defensive strategies.
+
+---
+
+## 🛠️ Skills
+
+### Security Testing
+- Penetration Testing
+- Vulnerability Assessment
+- Web Application Security
+- API Security Testing
+- Network Security Assessment
+
+### Tools
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- OWASP ZAP
+- SQLMap
+- Nessus
+- Gobuster
+- Postman
+
+### Platforms
+- Kali Linux
+- Windows
+- Ubuntu
+- VirtualBox
+- TryHackMe
+- Hack The Box
+- LetsDefend
+
+### Programming
+- Python
+- Bash
+- PowerShell
+- SQL
+
+### Security Concepts
+- OWASP Top 10
+- OWASP API Security Top 10
+- Active Directory
+- Incident Response
+- Threat Hunting
+- Risk Assessment
+
+---
+
+## 📂 Projects & Labs
 
 [![Pentration Testing](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
 
