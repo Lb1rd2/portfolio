@@ -1,12 +1,8 @@
-# Julia Pereira
+# JULIA PEREIRA
 
 ## Cybersecurity Analyst | Penetration Tester | Certified Ethical Hacker (CEH) | Certified API Security Analyst
 
 This portfolio highlights my practical experience in cybersecurity, web application security, penetration testing, API security, and secure software development. Every project demonstrates real-world skills in identifying, testing, and securing applications using industry best practices.
-
-**My Security Portfolio**
-
-Here you can find individual deep-dives into my lab environments, penetration testing projects, security assessments, and technical writeups.
 
 ---
 
@@ -27,41 +23,26 @@ I am a Cybersecurity Analyst and Penetration Tester passionate about identifying
 
 ### Tools
 - Burp Suite
+- Postman
 - Nmap
 - Wireshark
 - Metasploit
 - OWASP ZAP
-- SQLMap
 - Nessus
 - Gobuster
-- Postman
-
-### Platforms
-- Kali Linux
-- Windows
-- Ubuntu
-- VirtualBox
-- TryHackMe
-- Hack The Box
-- LetsDefend
 
 ### Programming
 - Python
-- Bash
-- PowerShell
-- SQL
-
-### Security Concepts
-- OWASP Top 10
-- OWASP API Security Top 10
-- Active Directory
-- Incident Response
-- Threat Hunting
-- Risk Assessment
+- JavaScript
+- Html
+- CSS
 
 ---
 
 ## Projects & Labs
+**My Security Portfolio**
+
+Here you can find individual deep-dives into my lab environments, penetration testing projects, security assessments, and technical writeups.
 
 [![Pentration Testing](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
 
@@ -119,26 +100,8 @@ Additionally, the platform fosters technical growth by hosting **Cybersecurity C
 *   **State Management**: Built a robust relational database schema `PostgreSQL` to handle complex many-to-many relationships between users, applications, and job listings.
 
 ---
-
-## Tech Stack
-*   **Frontend:** React, Tailwind CSS, TypeScript
-*   **Backend:** Python FastAPI, Node.js
-*   **Database:** PostgreSQL, Redis
-*   **AI/ML:** OpenAI API, LangChain, HuggingFace
-*   **DevOps/Cloud:** Docker, AWS/GCP, GitHub Actions
-
----
-
-## System Architecture
-<!-- *(Insert a diagram here using Mermaid.js or an image. Show the flow from Frontend -> API Gateway -> Backend Services -> Database & LLMs)* -->
-
-## Getting Started
-<!-- [Provide clear instructions on how to clone, install dependencies, set up `.env` variables, and run the project locally.] -->
-
-## Contact & Live Demo
+## Live Demo
 *   **Live Deployment:** [Live Deployment](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f)
-*   **LinkedIn:** [Linkedin](www.linkedin.com/in/julia-pereira-cyber-security-analyst)
-*   **Portfolio:** [Portfolio](https://lb1rd2.github.io/portfolio/)
 
 
 ## Project 2: Secure Portfolio Website
@@ -229,13 +192,13 @@ The project further examines PowerShell capabilities for downloading remote reso
 
 
 
-    ## Certifications & Education
+## Certifications & Education
 
 My cybersecurity journey combines formal education, professional certifications, and continuous hands-on training in security operations, penetration testing, and secure technology practices.
 
 ---
 
-## Academic Education
+# Academic Education
 
 ### Bachelor’s Degree In Cyber Security and Digital Forensics
 
@@ -334,9 +297,9 @@ Download my CV:
 
 - **Email:** juliaperirafp@gmail.com.com
 - **LinkedIn:** https://linkedin.com/in/julia-pereira-cyber-analyst
-- **GitHub:** https://lb1rd2.github.io
-- **Hack The Box:** https://app.hackthebox.com/profile/yourprofile
-- **TryHackMe:** https://tryhackme.com/p/yourusername
+- **GitHub:** https://lb1rd2.github.io/portfolio/
+- **Hack The Box:** https://app.hackthebox.com/profile/
+- **TryHackMe:** https://tryhackme.com/p/
 
 <p align="left">
   <a href="https://www.credly.com/badges/c8edacce-a86d-4096-a221-56fbfb4119bc/public_url">
