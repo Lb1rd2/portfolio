@@ -333,7 +333,7 @@ Download my CV:
 ## 📬 Contact
 
 - **Email:** juliaperirafp@gmail.com.com
-- **LinkedIn:** https://linkedin.com/in/yourprofile
+- **LinkedIn:** https://linkedin.com/in/julia-pereira-cyber-analyst
 - **GitHub:** https://github.com/yourusername
 - **Hack The Box:** https://app.hackthebox.com/profile/yourprofile
 - **TryHackMe:** https://tryhackme.com/p/yourusername
