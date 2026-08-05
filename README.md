@@ -4,19 +4,19 @@
 
 This portfolio highlights my practical experience in cybersecurity, web application security, penetration testing, API security, and secure software development. Every project demonstrates real-world skills in identifying, testing, and securing applications using industry best practices.
 
-🚀 **My Security Portfolio**
+**My Security Portfolio**
 
 Here you can find individual deep-dives into my lab environments, penetration testing projects, security assessments, and technical writeups.
 
 ---
 
-## 👩‍💻 About
+## About
 
 I am a Cybersecurity Analyst and Penetration Tester passionate about identifying vulnerabilities and helping organizations improve their security posture. I specialize in web application security, API security testing, vulnerability assessments, and ethical hacking. Through hands-on labs, real-world projects, and continuous learning, I continue to strengthen my technical skills and stay current with evolving cybersecurity threats and defensive strategies.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Security Testing
 - Penetration Testing
@@ -61,7 +61,7 @@ I am a Cybersecurity Analyst and Penetration Tester passionate about identifying
 
 ---
 
-## 📂 Projects & Labs
+## Projects & Labs
 
 [![Pentration Testing](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
 
@@ -69,7 +69,7 @@ I am a Cybersecurity Analyst and Penetration Tester passionate about identifying
 
 ## PROJECT 1
 
-# 🇰🇪 KaziConnect Kenya: AI-Powered Career Platform
+# KaziConnect Kenya🇰🇪: AI-Powered Career Platform
 
 ![Deployment Status](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f)
 ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -135,7 +135,7 @@ Additionally, the platform fosters technical growth by hosting **Cybersecurity C
 ## Getting Started
 <!-- [Provide clear instructions on how to clone, install dependencies, set up `.env` variables, and run the project locally.] -->
 
-## 📬 Contact & Live Demo
+## Contact & Live Demo
 *   **Live Deployment:** [Live Deployment](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f)
 *   **LinkedIn:** [Linkedin](www.linkedin.com/in/julia-pereira-cyber-security-analyst)
 *   **Portfolio:** [Portfolio](https://lb1rd2.github.io/portfolio/)
@@ -241,7 +241,7 @@ The project further examines PowerShell capabilities for downloading remote reso
 
 
 
-    ## 🎓 Certifications & Education
+    ## Certifications & Education
 
 My cybersecurity journey combines formal education, professional certifications, and continuous hands-on training in security operations, penetration testing, and secure technology practices.
 
@@ -284,10 +284,8 @@ Key areas covered:
 
 # Professional Cybersecurity Certifications
 
-## Completed Certifications
-
 ### Certified Ethical Hacker (CEH)
-**EC-Council**
+**Pearson**
 
 Skills developed:
 - Ethical hacking methodologies
@@ -299,7 +297,8 @@ Skills developed:
 
 ---
 
-### Certified API Security Analyst
+### Certified API Security Analyst (CASA)
+**APIsec University**
 
 Skills developed:
 - API security testing
@@ -310,7 +309,8 @@ Skills developed:
 
 ---
 
-### Cyber Shujaa Cybersecurity Certificate
+### Security Analyst
+**Cyber Shujaa**
 
 Skills developed:
 - Cybersecurity fundamentals
@@ -318,58 +318,6 @@ Skills developed:
 - Threat awareness
 - Practical security labs
 - Defensive security concepts
-
----
-
-# 📚 Additional Professional Training & Learning
-
-### Penetration Testing Training
-
-Focus areas:
-- Reconnaissance and enumeration
-- Vulnerability discovery
-- Exploitation techniques
-- Web application testing
-- Security reporting
-
----
-
-### Security Operations Training
-
-Focus areas:
-- Security monitoring
-- Incident response
-- Threat detection
-- Log analysis
-- Defensive security practices
-
----
-
-# ⏳ Certifications In Progress
-
-### CompTIA Security+
-
-**In Progress**
-
-Focus areas:
-- Network security
-- Threat management
-- Identity and access management
-- Risk management
-- Security architecture
-
----
-
-### Google Cybersecurity Professional Certificate
-
-**In Progress**
-
-Focus areas:
-- Security foundations
-- Linux security
-- Python for cybersecurity
-- Incident response
-- Security analysis
 
 ---
 
@@ -383,10 +331,6 @@ Focus areas:
 **Hack The Box**
 - Vulnerability exploitation practice
 - Real-world penetration testing scenarios
-
-**LetsDefend**
-- SOC analyst simulations
-- Incident response practice
 
 ---
 
