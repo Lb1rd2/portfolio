@@ -238,6 +238,174 @@ The project further examines PowerShell capabilities for downloading remote reso
   </a>
 
   <a href="https://www.credly.com/badges/a107dae3-9350-47cf-8ced-8923b7ac76ad/public_url">
+
+
+
+    ## 🎓 Certifications & Education
+
+My cybersecurity journey combines formal education, professional certifications, and continuous hands-on training in security operations, penetration testing, and secure technology practices.
+
+---
+
+## Academic Education
+
+### Bachelor’s Degree In Cyber Security and Digital Forensics
+
+**Open University of Kenya**  
+**Bachelor’s Degree In Cyber Security and Digital Forensics**  
+**In Progress**
+
+Relevant areas of study:
+- Information Technology
+- Computer Networks
+- Software Development
+- Database Systems
+- Systems Administration
+- Cybersecurity Fundamentals
+- Secure Computing Practices
+
+---
+
+### Diploma in Cyber Security and Ethical Hacking
+
+**Institute of Software Technologies**  
+**Diploma in Diploma in Cyber Security and Ethical Hacking**  
+**Year Completed - 2023**
+
+Key areas covered:
+- Ethical Hacking
+- Networking Fundamentals
+- Cryptography
+- Operating Systems
+- IT Support
+- Information Security Principles
+
+---
+
+# Professional Cybersecurity Certifications
+
+## Completed Certifications
+
+### Certified Ethical Hacker (CEH)
+**EC-Council**
+
+Skills developed:
+- Ethical hacking methodologies
+- Vulnerability assessment
+- Network security testing
+- Reconnaissance techniques
+- Web application security
+- Penetration testing fundamentals
+
+---
+
+### Certified API Security Analyst
+
+Skills developed:
+- API security testing
+- Authentication and authorization assessment
+- API vulnerability identification
+- OWASP API Security Top 10
+- Secure API design principles
+
+---
+
+### Cyber Shujaa Cybersecurity Certificate
+
+Skills developed:
+- Cybersecurity fundamentals
+- Security operations
+- Threat awareness
+- Practical security labs
+- Defensive security concepts
+
+---
+
+# 📚 Additional Professional Training & Learning
+
+### Penetration Testing Training
+
+Focus areas:
+- Reconnaissance and enumeration
+- Vulnerability discovery
+- Exploitation techniques
+- Web application testing
+- Security reporting
+
+---
+
+### Security Operations Training
+
+Focus areas:
+- Security monitoring
+- Incident response
+- Threat detection
+- Log analysis
+- Defensive security practices
+
+---
+
+# ⏳ Certifications In Progress
+
+### CompTIA Security+
+
+**In Progress**
+
+Focus areas:
+- Network security
+- Threat management
+- Identity and access management
+- Risk management
+- Security architecture
+
+---
+
+### Google Cybersecurity Professional Certificate
+
+**In Progress**
+
+Focus areas:
+- Security foundations
+- Linux security
+- Python for cybersecurity
+- Incident response
+- Security analysis
+
+---
+
+### Additional Learning Platforms
+
+**TryHackMe**
+- Hands-on cybersecurity labs
+- Penetration testing exercises
+- Defensive security challenges
+
+**Hack The Box**
+- Vulnerability exploitation practice
+- Real-world penetration testing scenarios
+
+**LetsDefend**
+- SOC analyst simulations
+- Incident response practice
+
+---
+
+## 📄 Curriculum Vitae (CV)
+
+Download my CV:
+
+[📥 Julia_Pereira_CV.pdf](./Julia_Pereira_CV.pdf)
+
+---
+
+## 📬 Contact
+
+- **Email:** your.email@example.com
+- **LinkedIn:** https://linkedin.com/in/yourprofile
+- **GitHub:** https://github.com/yourusername
+- **Hack The Box:** https://app.hackthebox.com/profile/yourprofile
+- **TryHackMe:** https://tryhackme.com/p/yourusername
+- **LetsDefend:** https://app.letsdefend.io/profile/yourprofile
     <img src="CASA.jpeg" alt="CASA Badge" width="150">
   </a>
 </p>
