@@ -50,59 +50,76 @@ Here you can find individual deep-dives into my lab environments, penetration te
 
 ## PROJECT 1
 
-# KaziConnect Kenya🇰🇪: AI-Powered Career Platform
+# KaziConnect
 
-![Deployment Status](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![Cybersecurity](https://img.shields.io/badge/Security-OWASP%20Compliant-red)
+## Project Overview
 
-> **Bridging the gap between Kenyan graduates and career success through AI, automation, and secure data handling.**
+KaziConnect is an AI-powered career platform built for Kenyan students and graduates to discover relevant internships, attachments, and entry-level jobs, improve their CVs, prepare for interviews, and manage their job applications in one place.
 
-## Overview
-KaziConnect Kenya is a full-stack web application designed to streamline the job search process for students and entry-level professionals in Kenya. It aggregates opportunities from government ministries and top corporations (Safaricom, KCB), utilizes LLMs to generate ATS-compliant application materials, and provides a secure dashboard for tracking applications. 
+## Live Demo
 
-Additionally, the platform fosters technical growth by hosting **Cybersecurity CTF Challenges** and curated learning resources.
+🔗 *[View Live Project](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f)*
+
+## What Does It Do?
+
+KaziConnect helps students and graduates:
+
+- Find internships, attachments, and entry-level jobs.
+- Discover opportunities from government ministries, companies, and tech hubs.
+- Use AI to find opportunities that match their skills and profile.
+- Build ATS-friendly CVs.
+- Prepare for interviews.
+- Track job applications and deadlines.
+
+## Who Is It For?
+
+KaziConnect is primarily designed for:
+
+- Kenyan university and college students
+- Recent graduates
+- Entry-level job seekers
+- Students looking for industrial attachments
+- Students looking for internships
+
+## What Problem Does It Solve?
+
+Many Kenyan students and graduates struggle to find relevant career opportunities, identify opportunities that match their skills, create effective CVs, prepare for interviews, and keep track of multiple applications.
+
+## How Does It Solve the Problem?
+
+KaziConnect brings the career search process into one platform. It uses AI to help users discover opportunities based on their profiles while also providing tools for CV building, interview preparation, and application tracking.
 
 ## Key Features
-*   **Smart Profile & AI Document Generator**: Instantly generates tailored, ATS-compliant CVs and Cover Letters in PDF format.
-  ![Landing Page](kc1.png)
 
-*   **Automated Job Aggregation**: Scrapes and curates entry-level jobs from diverse portals (Ministries, Tech Hubs, Corporate sites).
-  ![Landing Page](k2.png)
+- 🤖 AI-powered opportunity search
+- 💼 Internship and attachment discovery
+- 🎓 Entry-level job opportunities
+- 🎯 Personalized opportunity matching
+- 📄 ATS-friendly CV building
+- 🎤 Interview preparation
+- 📋 Application tracking
+- 🇰🇪 Kenya-focused career opportunities
 
-*   **AI Mock Interviewer**: An interactive LLM-driven interview simulator with real-time feedback.
-  ![Landing Page](kc3.png)
+## Target Users
 
-    **Application Dashboard**: Real-time tracking of application statuses (Pending, Accepted, Rejected).
-![Landing Page](kc4.png)
+The main target users are Kenyan students, recent graduates, and entry-level job seekers looking for internships, industrial attachments, and their first jobs.
 
-*   **Cybersecurity Hub**: Hosts CTF challenges and curated resources (Cisco, Microsoft) for skill development.
-  ![Landing Page](kc5.png)
-  ---
+## Problem Statement
 
-## Cybersecurity & Data Privacy (AppSec)
-*Given the sensitive nature of user data (PII, employment history, academic records), security was prioritized at the architecture level.*
+Kenyan students and graduates often struggle to find relevant career opportunities and manage the application process. KaziConnect addresses this by providing an AI-powered platform that brings opportunity discovery, CV building, interview preparation, and application tracking together in one place.
 
-*   **Data Protection & Compliance**: Designed with the **Kenya Data Protection Act (2019)** in mind. All PII is encrypted at rest and in transit (TLS 1.3).
-*   **OWASP Top 10 Mitigation**: Implemented strict input validation and output encoding to prevent XSS and SQL Injection. Parameterized queries are used across the database.
-*   **AI Security (Prompt Injection Defense)**: Secured LLM endpoints (Cover Letter/Mock Interview) against prompt injection and jailbreaking attempts using input sanitization and system prompt hardening.
-*   **Secure Web Scraping Pipeline**: The job aggregation engine uses isolated, sandboxed environments to scrape external sites, preventing Server-Side Request Forgery (SSRF) and ensuring malicious payloads from external sites are neutralized before database insertion.
-*   **Authentication & Authorization**: Implemented secure, stateless authentication using JWTs with short expiration times and secure HttpOnly cookies.
+## Technologies
 
-*(See [SECURITY.md](./SECURITY.md) for our full vulnerability disclosure policy and security architecture).*
+- HTML
+- CSS
+- JavaScript
+- AI-powered features
 
----
+## Project Goal
 
-## Software Engineering & AI Integration
-*   **Full-Stack Architecture**: Built using `Frontend Framework, React/Next.js` and `Backend, Node.js/Python FastAPI`.
-*   **AI Orchestration**: Integrated `LLM Provider, OpenAI API/Claude` via custom prompt engineering to ensure CVs and cover letters maintain professional formatting and context.
-*   **Programmatic PDF Generation**: Developed a custom engine using `Library, PDFKit/React-PDF` to render dynamic, ATS-friendly documents without relying on heavy external dependencies.
-*   **State Management**: Built a robust relational database schema `PostgreSQL` to handle complex many-to-many relationships between users, applications, and job listings.
+The goal of KaziConnect is to make the transition from education to employment easier for Kenyan students and graduates by simplifying the process of finding opportunities and preparing for applications.
 
 ---
-## Live Demo
-*   **Live Deployment:** [Live Deployment](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f)
-
 
 ## Project 2: Secure Portfolio Website
 A responsive personal portfolio website designed and developed entirely from scratch using HTML, CSS, and JavaScript. Beyond showcasing my work, this project demonstrates my ability to build modern web applications while incorporating secure coding practices and performing security assessments to identify and remediate vulnerabilities.
