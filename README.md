@@ -44,9 +44,7 @@ I am a Cybersecurity Analyst and Penetration Tester passionate about identifying
 
 Here you can find individual deep-dives into my lab environments, penetration testing projects, security assessments, and technical writeups.
 
-[![Pentration Testing](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Lab-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://Lb1rd2.github.io/portfolio/kubernetes/)
 
 ## PROJECT 1
 
@@ -91,14 +89,14 @@ KaziConnect brings the career search process into one platform. It uses AI to he
 
 ## Key Features
 
-- 🤖 AI-powered opportunity search
-- 💼 Internship and attachment discovery
-- 🎓 Entry-level job opportunities
-- 🎯 Personalized opportunity matching
-- 📄 ATS-friendly CV building
-- 🎤 Interview preparation
-- 📋 Application tracking
-- 🇰🇪 Kenya-focused career opportunities
+- AI-powered opportunity search
+- Internship and attachment discovery
+- Entry-level job opportunities
+- Personalized opportunity matching
+- ATS-friendly CV building
+- Interview preparation
+- Application tracking
+- Kenya-focused career opportunities
 
 ## Target Users
 
@@ -121,9 +119,10 @@ The goal of KaziConnect is to make the transition from education to employment e
 
 ---
 
+
 ## Project 2: Secure Portfolio Website
 A responsive personal portfolio website designed and developed entirely from scratch using HTML, CSS, and JavaScript. Beyond showcasing my work, this project demonstrates my ability to build modern web applications while incorporating secure coding practices and performing security assessments to identify and remediate vulnerabilities.
-*[Click Here to view the Live website](https://techielbird.github.io/julia-pereira-portfolio/)*
+*[View the Live website](https://techielbird.github.io/julia-pereira-portfolio/)*
 
 ### Key Features
 - Responsive and modern user interface
@@ -199,13 +198,19 @@ Manage products efficiently by adding, editing, deleting, and organizing invento
 Monitor stock levels in real time, helping prevent shortages, reduce overstocking, and improve inventory management.
 ![Project Interface View](f.png)
 
-## Remote File Transfer and PowerShell Fundamentals
+
+## Other Projects
+[![Pentration Testing](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Lab-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://Lb1rd2.github.io/portfolio/kubernetes/)
+
+<!-- Remote File Transfer and PowerShell Fundamentals
 
 This project demonstrates my understanding of secure file transfer techniques and PowerShell-based file delivery methods used in Windows environments from a cybersecurity and system administration perspective.
 
 The work covers multiple approaches to transferring files between local and remote systems, including Remote Desktop Protocol (RDP) through Drive and Clipboard Redirection, Secure File Transfer Protocol (SFTP) over SSH, and PowerShell-based file transfer mechanisms. It also explores PowerShell Base64 encoding and decoding techniques for transferring files without network communication, as well as the use of MD5 hashing to verify file integrity after transfer.
 
-The project further examines PowerShell capabilities for downloading remote resources using the System.Net.WebClient class (DownloadFile(), DownloadFileAsync()) and Invoke-WebRequest (IWR). In addition, it introduces memory-based execution concepts using DownloadString() and Invoke-Expression (IEX), providing insight into techniques commonly encountered during system administration and cybersecurity assessments.
+The project further examines PowerShell capabilities for downloading remote resources using the System.Net.WebClient class (DownloadFile(), DownloadFileAsync()) and Invoke-WebRequest (IWR). In addition, it introduces memory-based execution concepts using DownloadString() and Invoke-Expression (IEX), providing insight into techniques commonly encountered during system administration and cybersecurity assessments. -->
 
 
 
