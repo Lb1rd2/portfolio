@@ -200,7 +200,7 @@ Monitor stock levels in real time, helping prevent shortages, reduce overstockin
 
 
 ## Other Projects
-[![Pentration Testing](https://unsplash.com/photos/low-angle-of-hacker-installing-malicious-software-on-data-center-servers-using-laptop-9nk2antk4Bw)](./pentest/)
+[![Penetration Testing](https://unsplash.com/photos/9nk2antk4Bw/download?force=true&w=1200)](./pentest/)
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Lab-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://Lb1rd2.github.io/portfolio/kubernetes/)
 
