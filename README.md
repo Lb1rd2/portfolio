@@ -1,8 +1,36 @@
-# JULIA PEREIRA
+<table>
+  <tr>
+    <td>
+      <kbd>🟢 SECURE BY DESIGN</kbd>
+      
+      ## Software Engineer & Cyber Security Analyst | AppSec & Penetration Tester
+      ### CEH & CASA Certified
 
-## Cybersecurity Analyst | Penetration Tester | Certified Ethical Hacker (CEH) | Certified API Security Analyst
+      I operate at the intersection of *software engineering* and *cybersecurity. As a front-end developer and certified analyst specializing in **Application Security (AppSec)* and *penetration testing*, I don't just build modern user interfaces—I ensure they are built securely by design and rigorously tested against vulnerabilities.
 
-This portfolio highlights my practical experience in cybersecurity, web application security, penetration testing, API security, and secure software development. Every project demonstrates real-world skills in identifying, testing, and securing applications using industry best practices.
+       *The Problem I Solve:* I eliminate costly security flaws before deployment, transforming vulnerable code and APIs into bulletproof, high-performance web applications that safeguard client data and user trust.
+
+      - *Front-End & Engineering:* HTML/CSS, JavaScript, React, Python, Bash
+      - *AppSec & Pen Testing:* OWASP Top 10, API Security, Burp Suite, Metasploit, Wireshark
+      - *Credentials:* Certified Ethical Hacker (CEH) & Certified API Security Analyst (CASA)
+      - *Current Focus:* Developing secure web applications and performing advanced API/cloud security assessments.
+
+      ---
+
+      ### Let's Work Together
+       *Looking to build a secure app or audit your current system?* Let's connect to protect your digital assets.
+      
+      <p align="left">
+        <a href="YOUR_CV_LINK_HERE" download>
+          <img src="https://shields.io" alt="Download CV"/>
+        </a>
+        <a href="mailto:julia.pereira.joseph@gmail.com">
+          <img src="https://shields.io" alt="Hire Me"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
