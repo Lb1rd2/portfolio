@@ -1,24 +1,28 @@
-# 🟢 SOFTWARE ENGINEER & CYBER SECURITY ANALYST
-### 🛡️ AppSec & Penetration Tester (CEH & CASA Certified)
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="150" height="150" style="border-radius: 50%;" alt="[Your Name] Profile Picture">
+</p>
 
-> ### ⚡ Secure By Design
-> I operate directly at the intersection of *software engineering* and *cybersecurity*. As a front-end developer and certified analyst, I don't just build modern user interfaces—I ensure they are built securely by design and rigorously tested against complex vulnerabilities.
-> 
-> 💡 *The Problem I Solve:* I eliminate costly security flaws before deployment, transforming vulnerable code and APIs into bulletproof, high-performance web applications that safeguard client data and user trust.
+# 🟢 [YOUR NAME] | FULL-STACK DEVELOPER & PENETRATION TESTER
+### 🛡️ AppSec Specialist (CEH & CASA Certified)
 
-### 🛠️ Tech Stack & Expertise
-* *Front-End & Engineering:* HTML5, CSS3, JavaScript, React, Python, Bash
-* *AppSec & Pen Testing:* OWASP Top 10, API Security, Burp Suite, Metasploit, Wireshark
-* *Core Credentials:* Certified Ethical Hacker (CEH) | Certified API Security Analyst (CASA)
-* *Current Focus:* Developing secure web applications and performing advanced API/cloud security assessments.
+> I build secure digital solutions for businesses, proactively testing their platforms to find and eliminate critical vulnerabilities before deployment.
+
+### 💼 Let's Work Together
+🚀 *Looking to build a secure system or audit your current platforms?* Click a button below to connect immediately:
+
+<a href="YOUR_CV_LINK_HERE" download><button>📄 Download My CV</button></a>
+<a href="mailto:your.email@://example.com"><button>📧 Email Me</button></a>
+<a href="https://wa.me."><button>💬 WhatsApp Chat</button></a>
+<a href="tel:YOUR_PHONE_NUMBER_HERE"><button>📞 Call Me Direct</button></a>
 
 ---
 
-### 💼 Let's Work Together
-🚀 *Looking to build a secure app or audit your current system?* Let's connect to protect your digital assets.
-
-[<img src="https://shields.io" alt="Download CV"/>](YOUR_CV_LINK_HERE)  [<img src="https://shields.io" alt="Hire Me"/>](mailto:your.email@://example.com)
-
+### 🛠️ Tech Stack & Expertise
+* *Development & Architecture:* HTML5, CSS3, JavaScript, React, Node.js, Python, Databases, Bash
+* *Vulnerability Assessment & Testing:* OWASP Top 10, API Security, Burp Suite, Metasploit, Wireshark
+* *Core Credentials:* Certified Ethical Hacker (CEH) | Certified API Security Analyst (CASA)
+* *Current Focus:* Creating high-performance software and performing advanced API/cloud security assessments.
+*
 ---
 
 ## About
