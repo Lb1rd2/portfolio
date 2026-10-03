@@ -1,39 +1,23 @@
-<table>
-  <tr>
-    <td>
-      <br>
-      <kbd>🟢 SECURE BY DESIGN</kbd>
-      <br><br>
+# 🟢 SOFTWARE ENGINEER & CYBER SECURITY ANALYST
+### 🛡️ AppSec & Penetration Tester (CEH & CASA Certified)
 
-      ## Software Engineer & Cyber Security Analyst | AppSec & Penetration Tester
-      ### 🛡️ CEH & CASA Certified
+> ### ⚡ Secure By Design
+> I operate directly at the intersection of *software engineering* and *cybersecurity*. As a front-end developer and certified analyst, I don't just build modern user interfaces—I ensure they are built securely by design and rigorously tested against complex vulnerabilities.
+> 
+> 💡 *The Problem I Solve:* I eliminate costly security flaws before deployment, transforming vulnerable code and APIs into bulletproof, high-performance web applications that safeguard client data and user trust.
 
-      I operate at the intersection of *software engineering* and *cybersecurity. As a front-end developer and certified analyst specializing in **Application Security (AppSec)* and *penetration testing*, I don't just build modern user interfaces—I ensure they are built securely by design and rigorously tested against vulnerabilities.
+### 🛠️ Tech Stack & Expertise
+* *Front-End & Engineering:* HTML5, CSS3, JavaScript, React, Python, Bash
+* *AppSec & Pen Testing:* OWASP Top 10, API Security, Burp Suite, Metasploit, Wireshark
+* *Core Credentials:* Certified Ethical Hacker (CEH) | Certified API Security Analyst (CASA)
+* *Current Focus:* Developing secure web applications and performing advanced API/cloud security assessments.
 
-      💡 *The Problem I Solve:* I eliminate costly security flaws before deployment, transforming vulnerable code and APIs into bulletproof, high-performance web applications that safeguard client data and user trust.
+---
 
-      - 💻 *Front-End & Engineering:* HTML/CSS, JavaScript, React, Python, Bash
-      - 🛡️ *AppSec & Pen Testing:* OWASP Top 10, API Security, Burp Suite, Metasploit, Wireshark
-      - 📜 *Credentials:* Certified Ethical Hacker (CEH) & Certified API Security Analyst (CASA)
-      - 🔭 *Current Focus:* Developing secure web applications and performing advanced API/cloud security assessments.
+### 💼 Let's Work Together
+🚀 *Looking to build a secure app or audit your current system?* Let's connect to protect your digital assets.
 
-      ---
-
-      ### 💼 Let's Work Together
-      🚀 *Looking to build a secure app or audit your current system?* Let's connect to protect your digital assets.
-      
-      <p align="left">
-        <a href="YOUR_CV_LINK_HERE" download>
-          <img src="https://shields.io" alt="Download CV"/>
-        </a>
-        <a href="mailto:your.email@://example.com">
-          <img src="https://shields.io" alt="Hire Me"/>
-        </a>
-      </p>
-      <br>
-    </td>
-  </tr>
-</table>
+[<img src="https://shields.io" alt="Download CV"/>](YOUR_CV_LINK_HERE)  [<img src="https://shields.io" alt="Hire Me"/>](mailto:your.email@://example.com)
 
 ---
 
